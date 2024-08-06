@@ -1,0 +1,46 @@
+/* App.css */
+body {
+  background-color: rgb(4, 4, 108);
+}
+.calculator {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  gap: 20px;
+  max-width: 250px;
+  margin: 100px auto;
+  padding: 30px;
+  border: 5px solid #c6e307;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #ccc;
+}
+
+.display {
+  font-size: 2rem;
+  text-align: right;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background: #efedf2;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+}
+
+button {
+  font-size: 1.5rem;
+  padding: 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background: #0d054e;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: rgb(33, 202, 232);
+}
