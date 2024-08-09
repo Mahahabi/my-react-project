@@ -1,0 +1,261 @@
+body{
+    background-color: rgb(251, 252, 252);
+}
+
+.Boxcontent {
+    position: absolute;
+    margin-top:160px;
+    left: 5px;
+    border: 2px solid rgb(179, 218, 233);
+    border-radius: 15px;
+    width: 440px;
+    height: 540px;
+}
+.Boxphoto {
+    width: 445px;
+    height: 300px;
+    border-radius: 15px;
+}
+.detailp{
+    width: 410px;
+    height: 190px;
+    padding-inline: 0px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Boxcontent1 {
+    position: absolute;
+    margin-top:160px;
+    left: 450px;
+    border: 2px solid rgb(179, 218, 233);
+    border-radius: 15px;
+    width: 440px;
+    height: 540px;
+}
+.boxphoto1{
+    width: 440px;
+    height: 300px;
+    border-radius: 15px;
+}
+.detailp1{
+    width: 410px;
+    height: 190px;
+    padding-inline: 0px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Boxcontent2 {
+    position: absolute;
+    margin-top:160px;
+    left: 895px;
+    border: 2px solid rgb(179, 218, 233);
+    border-radius: 15px;
+    width: 445px;
+    height: 540px;
+}
+.boxphoto2{
+    width: 445px;
+    height: 300px;
+    border-radius: 15px;
+    left: 730px;
+}
+.detailp2{
+    
+    padding-inline: 5px;
+    width: 420px;
+    top: 30px;
+    height: 190px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Boxcontent3 {
+    position: absolute;
+    top: 730px;
+    left: 5px;
+    border: 2px solid rgb(179, 218, 233);
+    border-radius: 15px;
+    width: 440px;
+    height: 520px;
+}
+.boxphoto3{
+    width: 440px;
+    border-radius: 15px;
+    height: 250px;
+}
+.detailp3{
+    
+    padding-inline: 5px;
+    width: 410px;
+    top: 1000px;
+    height: 250px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Boxcontent4 {
+    position: absolute;
+    top: 730px;
+    left: 450px;
+    border: 2px solid rgb(179, 218, 233);
+    border-radius: 15px;
+    width: 440px;
+    height: 520px;
+}
+.boxphoto4{
+    width: 440px;
+    height: 250px;
+    border-radius: 15px;
+   
+}
+.detailp4{
+    
+    width: 410px;
+    top: 1000px;
+    height: 250px;
+    padding-inline: 0px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Boxcontent5 {
+    position: absolute;
+    top: 730px;
+    left: 895px;
+    border: 2px solid rgb(179, 218, 233);
+    border-radius: 15px;
+    width: 440px;
+    height: 520px;
+}
+.boxphoto5{
+    width: 440px;
+    height: 250px;
+    border-radius: 15px;
+    
+}
+.detailp5{
+    padding-inline: 0px;
+    width: 410px;
+    top: 550px;
+    height: 250px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Boxcontent6 {
+    position: absolute;
+    top: 1265px;
+    left: 5px;
+    border: 2px solid rgb(179, 218, 233);
+    border-radius: 15px;
+    width: 440px;
+    height: 520px;
+}
+.boxphoto6 {
+    width: 440px;
+    height: 250px;
+    border-radius: 15px;
+}
+.detailp6 {
+    padding-inline: px;
+    width: 410px;
+    top: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Boxcontent7 {
+    position: absolute;
+    top: 1265px;
+    left: 450px;
+    border: 2px solid rgb(179, 218, 233);
+    border-radius: 15px;
+    width: 440px;
+    height: 520px;
+}
+.boxphoto7{
+    width: 440px;
+    height: 250px;
+    border-radius: 15px;
+}
+.detailp7{
+    padding-inline: 0px;
+    width: 410px;
+    top: 700px;
+    height: 250px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Boxcontent8 {
+    position: absolute;
+    top: 1265px;
+    left: 895px;
+    border: 2px solid rgb(179, 218, 233);
+    border-radius: 15px;
+    width: 440px;
+    height: 520px;
+}
+.boxphoto8{
+    width: 440px;
+    border-radius: 15px;
+    height: 250px;
+
+}
+.detailp8{
+   
+    width: 410px;
+    top: 700px;
+    height: 250px;
+    padding-inline: 0px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.foot1{
+    height: 120px;
+    background-color: #2F4F4F;
+    margin-top: 1800px;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 0px;
+    padding-inline: 10px;
+    text-align: center;
+    width: 1330px;
+  }
+  
+
+
+ .tempf {
+    box-shadow: 3px 5px 5px black;
+ }
+ .tempf1{
+    box-shadow:  3px 5px 5px black;
+}
+.tempf2{
+    box-shadow:  3px 5px 5px black;
+}
+.tempf3{
+    box-shadow:  3px 5px 5px black;
+}
+.tempf4{
+    box-shadow:  3px 5px 5px black;
+}
+.tempf5{
+    box-shadow:  3px 5px 5px black;
+}
+.tempf6{
+    box-shadow:  3px 5px 5px black;
+}
+.tempf7{
+    box-shadow:  3px 5px 5px black;
+}
+.tempf8{
+    box-shadow:  3px 5px 5px black;
+}
+.tempf9{
+    box-shadow:  3px 5px 5px black;} 
